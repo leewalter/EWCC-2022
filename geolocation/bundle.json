@@ -1,0 +1,7 @@
+{
+
+  "edgeworker-version": "0.16",
+
+  "description" : "Walter Lee - Add city in WF locator search string, add if country check and info.city for Washington D.C. case"
+
+}
