@@ -1,17 +1,12 @@
-# Example Site Boilerplate
+# EWCC
 
-A collection of common content pieces and boilerplate design and assets for use by the Netlify DX team (or anyone, although the content will be rather Netli-centric) when creating example and demo sites.
+4 EW use cases:
 
-![A screenshot](screenshot.png)
+## use cases 1 - Geolocation
 
-## Todo
+## use cases 2 - Origin Performance Fixer (Apache)
 
-Everything really. We're just breaking ground.
+## use cases 3 - Origin Performance Fixer (Nginx)
 
-
-## Sample README conventions.
-
-Some common language and descriptions might be useful. What you'll find below this line
-
----
+## use cases 4 - Origin Performance Fixer (End user cache busting for longer max-age)
 
