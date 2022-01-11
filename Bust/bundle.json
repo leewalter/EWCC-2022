@@ -1,0 +1,4 @@
+{
+    "edgeworker-version":"6.0",
+    "description" : "Modify an HTML streamed response by replacing test.js to test.js?version=2 to bust end user cache at Browser to allow longer max-age"
+}
